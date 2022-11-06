@@ -1,2 +1,5 @@
-package exception;public class ParametrosInvalidosException extends Exception {
+package exception;
+
+public class ParametrosInvalidosException extends Exception {
+
 }
